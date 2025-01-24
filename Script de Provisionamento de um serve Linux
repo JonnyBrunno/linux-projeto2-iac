@@ -8,7 +8,7 @@ apt-get install apache2 unzip -y
 
 echo "Baixando e copiando arquivos da atualização..."
 
-cd/temp
+cd /temp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
 cd linux-site-dio-main
